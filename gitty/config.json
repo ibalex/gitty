@@ -1,11 +1,11 @@
 {
   "ssrs_servers": [
     {
-      "name"          : "dev_ssrs",
+      "name"          : "ssrs_server",
       "type"          : "ssrs",
-      "ssrs_service"  : "http://hse-nj-dba-01:8000/ReportServer_DB01/ReportService2005.asmx",
-      "domain"        : "fds",
-      "username"      : "service-pedi",
+      "ssrs_service"  : "",
+      "domain"        : "",
+      "username"      : "",
       "password"      : "",
       "root_dir"      : ""
     }
